@@ -71,7 +71,7 @@
     transform: scale(1.05);
     transition: 0.3s;
 }
-@media(max-width:750px){
+@media(max-width:700px){
     .about{
         gap:80px;
         margin: 50px;
