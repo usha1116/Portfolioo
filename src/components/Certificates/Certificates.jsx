@@ -7,7 +7,7 @@ import photoshope from  '../../assets/photoshope_certificate.png'
 import reactjs from '../../assets/ReactJS.jpg'
 import project_devlopment from '../../assets/Project-devlopment.png'
 import AWS from '../../assets/AWS.png'
-import forage from '../../assets/forage_certificate.pdf'
+import forage from '../../assets/forage_certificate.png'
 
 const Certificates=()=>{
     return(
@@ -25,7 +25,7 @@ const Certificates=()=>{
                 <div className="certificate"> <a href="src\assets\ReactJs.jpg"> <img className="certificate-img" src={reactjs} alt="" /> </a></div>
                 <div className="certificate">  <a href="src\assets\Project-devlopment.png"><img className="certificate-img" src={project_devlopment} alt="" /></a> </div>
                 <div className="certificate">  <a href="src\assets\AWS.png"><img className="certificate-img" src={AWS} alt="" /></a> </div>
-                <div className="certificate">  <a href="src\assets\forage_certificate.pdf"><img className="certificate-img" src={forage} alt="" /></a></div>
+                <div className="certificate">  <a href="src\assets\forage_certificate.png"><img className="certificate-img" src={forage} alt="" /></a></div>
 
             </div>
         </div>
